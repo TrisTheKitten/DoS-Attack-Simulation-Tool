@@ -81,4 +81,4 @@ This project is for educational purposes only and should not be used for malicio
 - `data/proxies.txt` is only used by the proxy helper scripts and is not required for core functionality.
 
 **License**
-MIT. See `LICENSE`.
+ See `LICENSE`.
